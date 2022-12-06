@@ -4,7 +4,8 @@ body
     padding: 0;  
     background-color:black;  
     font-family: 'Arial';  
-}  
+} 
+
 .login{  
         width: 382px;  
         overflow: hidden;  
@@ -14,7 +15,8 @@ body
         background: #23463f;  
         border-radius: 15px ;  
           
-}  
+}
+
 h2{  
     text-align: center;  
     color: #277582;  
@@ -24,6 +26,7 @@ label{
     color:green;  
     font-size: 17px;  
 }  
+
 #Uname{  
     width: 300px;  
     height: 30px;  
@@ -57,10 +60,6 @@ a{
     float: right;  
     background-color: grey;  
 } 
-
-
-
-
 * {
     font-family: 'M PLUS Rounded 1c', Avenir Next, Helvetica, sans-serif;
     color: white;
